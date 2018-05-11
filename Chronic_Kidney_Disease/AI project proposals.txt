@@ -1,0 +1,12 @@
+Some possible topics for our AI project:
+
+
+http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
+http://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult
+
+http://archive.ics.uci.edu/ml/datasets/Statlog+%28Heart%29
+http://archive.ics.uci.edu/ml/datasets/Moral+Reasoner
+http://archive.ics.uci.edu/ml/datasets/Lung+Cancer
+http://archive.ics.uci.edu/ml/datasets/Liver+Disorders
+http://archive.ics.uci.edu/ml/datasets/Dermatology
+http://archive.ics.uci.edu/ml/datasets/Heart+Disease

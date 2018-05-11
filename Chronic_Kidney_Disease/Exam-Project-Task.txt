@@ -1,0 +1,15 @@
+Exam Project
+1. Select a real life problem
+2. Prepare data for solving it
+	-Appropriate /Meaningful/
+	-Sufficient
+	-Shaped
+	-Cleaned
+	-Scaled
+	-Selected
+3. Train appropriate models
+4. Test models
+5. Validate
+6. Compare and Select
+7. Demonstrate over new data
+8. Celebrate it!
