@@ -6,7 +6,15 @@ Chronic kidney disease is a growing problem world-wide and therefore it is impor
 
 This project is based on Artificial Intelligence and it can be used in early discovery of patients who have developed CKD by looking in a number (24 in total) of factors which are said to be helpful while trying to indicate if a person has actually developed CKD.
 
-The program is processing the data gathered by various hospitals and using it to train Supervised Learning models which later on are tested in order to see how good they are in making predictions if a person has developed CKD.   
+The program is processing the data gathered by various hospitals and using it to train Supervised Learning models which later on are tested in order to see how good they are in making predictions if a person has developed CKD. 
+
+Machine Learning algorithms used in the project:
++ Gaussian NB
++ Multinomial NB
++ Bernoulli NB
++ Random Forest
++ Logistic Regression
++ Logistic Regression CV
 
 ## Data used
 
@@ -19,8 +27,26 @@ Data source: http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
 
 ## Technologies
 
++ Python programming language:
+    - Pandas library
+    - Numpy library
+    - Scikit-Learn machine learning library
+
 ## Getting Started
+
+In order to run the project a small amount of prerequisites and additional steps have to be fulfilled.
 
 ### Prerequisites
 
++ Python
++ Anaconda installed
++ Jupyter Notebook
+
 ### Running
+
+Start Jupyter Notebook server from command line:
+`jupyter notebook`
+
+Open `ChronicKidneyDiseaseProject.ipynb` file
+
+
